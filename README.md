@@ -8,7 +8,7 @@ A ROS2-based simulation workspace for an industrial SCARA robot, including a con
 
 ## Demo Video
 
-<video src="https://github.com/maxrec1/ros2-industrial-robot-simulation-new/raw/main/media/demo.mp4" controls width="600"></video>
+<video src="https://github.com/maxrec1/ros2-industrial-robot-simulation-new/raw/main/media/demo.mp4" poster="https://github.com/maxrec1/ros2-industrial-robot-simulation-new/raw/main/media/thumbnail.jpg" controls width="600"></video>
 
 [▶ Watch on YouTube](https://www.youtube.com/watch?v=KPUBYhb12pk)
 
