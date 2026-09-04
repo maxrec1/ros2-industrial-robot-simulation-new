@@ -6,6 +6,10 @@ A ROS2-based simulation workspace for an industrial SCARA robot, including a con
 
 **ROS2 Humble Hawksbill** (Ubuntu 22.04 LTS)
 
+## Demo Video
+
+<video src="https://github.com/maxrec1/ros2-industrial-robot-simulation-new/raw/main/media/demo.mp4" controls width="600"></video>
+
 ---
 
 ## Installation (Ubuntu 22.04 + ROS2 Humble)
