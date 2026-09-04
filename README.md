@@ -10,6 +10,8 @@ A ROS2-based simulation workspace for an industrial SCARA robot, including a con
 
 <video src="https://github.com/maxrec1/ros2-industrial-robot-simulation-new/raw/main/media/demo.mp4" controls width="600"></video>
 
+[▶ Watch on YouTube](https://www.youtube.com/watch?v=KPUBYhb12pk)
+
 ---
 
 ## Installation (Ubuntu 22.04 + ROS2 Humble)
